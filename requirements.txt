@@ -2,6 +2,7 @@ certifi
 chardet
 click
 flask
+Flask
 idna
 itsdangerous
 Jinja2
@@ -13,3 +14,4 @@ scikit-learn
 sklearn
 gunicorn
 datetime
+pandas
