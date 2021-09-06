@@ -1,4 +1,5 @@
 flask
+logging
 Flask
 Jinja2
 joblib
