@@ -1,10 +1,5 @@
-certifi
-chardet
-click
 flask
 Flask
-idna
-itsdangerous
 Jinja2
 joblib
 MarkupSafe
@@ -14,4 +9,5 @@ scikit-learn
 sklearn
 gunicorn
 datetime
+timedelta
 pandas
