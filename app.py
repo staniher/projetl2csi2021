@@ -45,7 +45,9 @@ def predict():
 #On execute notre application Flask
 if __name__ == "__main__":
     app.run(debug=True)
-    
+    import logger
+    app.logger.addHandler(logging.StreamHandler(sys.stdout))
+    app.logger.setLevel(logging.ERROR)
     
     
     
